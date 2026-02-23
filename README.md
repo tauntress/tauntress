@@ -17,7 +17,7 @@ I'm an AI educator, agent builder, and founder working at the intersection of AI
 
 ## Tools I Work With
 
-`MindStudio` `Claude` `ChatGPT` `Lovable` `Airtable` `Obsidian` `Zapier` `NotebookLM` 
+`MindStudio` `Claude` `ChatGPT` `Gemini` `Copilot` `Mistral` `Lovable` `Gamma` `Napkin.ai` `Airtable` `Obsidian` `Zapier` `NotebookLM` `Circle` `Slack` `Mighty Networks` `Skool`
 
 ## Connect With Me
 
