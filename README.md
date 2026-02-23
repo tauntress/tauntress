@@ -5,8 +5,8 @@ I'm an AI educator, agent builder, and founder working at the intersection of AI
 ## What I Do
 
 - 🤖 **AI Agent Builder** — MindStudio L3 certified (in progress), building practical agents that solve real problems
-- 🎓 **AI Educator** — Founder of [Joy Prompt Club](https://joypromptclub.com), helping women 35-40+ cut through the AI overwhelm
-- ✍️ **Writer** — [404 HR Found](https://404hrfound.com) newsletter | LinkedIn content on AI, work, and being human
+- 🎓 **AI Educator** — Founder of [Joy Prompt Club](https://joypromptclub.com), helping women 40+ cut through the AI overwhelm
+- ✍️ **Writer** — [404: HR Not Found] newsletter | LinkedIn content on AI, work, and being human
 - 🧠 **Systems Thinker** — Building personal knowledge management systems, automation pipelines, and TISO-based productivity frameworks
 
 ## Current Projects
@@ -17,11 +17,11 @@ I'm an AI educator, agent builder, and founder working at the intersection of AI
 
 ## Tools I Work With
 
-`MindStudio` `Claude` `ChatGPT` `Lovable` `Airtable` `Obsidian` `Zapier` `NotebookLM`
+`MindStudio` `Claude` `ChatGPT` `Lovable` `Airtable` `Obsidian` `Zapier` `NotebookLM` 
 
 ## Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/debhaas)
+- 💼 [LinkedIn](https://linkedin.com/in/debhaasai)
 - 📧 debhaas@gmail.com
 
 ---
