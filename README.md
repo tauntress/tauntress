@@ -6,7 +6,7 @@ I'm an AI educator, agent builder, and founder working at the intersection of AI
 
 - 🤖 **AI Agent Builder** — MindStudio L3 certified (in progress), building practical agents that solve real problems
 - 🎓 **AI Educator** — Founder of [Joy Prompt Club](https://joypromptclub.com), helping women 40+ cut through the AI overwhelm
-- ✍️ **Writer** — [404: HR Not Found] newsletter | LinkedIn content on AI, work, and being human
+- ✍️ **Writer** — [404: HR Not Found](https://www.linkedin.com/newsletters/404-hr-not-found-7292772614001868801/) | [Mostly Human](https://mostlyhuman.beehiiv.com/) | [R Generation Expresso](https://newsletter.r-generation.community/) | LinkedIn content on AI, work, and being human
 - 🧠 **Systems Thinker** — Building personal knowledge management systems, automation pipelines, and TISO-based productivity frameworks
 
 ## Current Projects
